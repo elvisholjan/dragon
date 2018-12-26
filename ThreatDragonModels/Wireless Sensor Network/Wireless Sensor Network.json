@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Wireless Sensor Network",
+    "owner": "Elvis Holjan"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat-modeling-WSN",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Sabina Barakovic"
+  }
+}
